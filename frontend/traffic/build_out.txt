@@ -1,0 +1,36 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------------< com:traffic >-----------------------------
+[INFO] Building traffic 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ traffic ---
+[INFO] Deleting C:\Users\sif-\Desktop\Projects\TrafficController\backend\traffic\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ traffic ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ traffic ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 26 source files with javac [debug release 17] to target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ traffic ---
+[INFO] skip non existing resourceDirectory C:\Users\sif-\Desktop\Projects\TrafficController\backend\traffic\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ traffic ---
+[INFO] Changes detected - recompiling the module! :dependency
+[INFO] Compiling 1 source file with javac [debug release 17] to target\test-classes
+[INFO] 
+[INFO] --- surefire:3.1.2:test (default-test) @ traffic ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- jar:3.3.0:jar (default-jar) @ traffic ---
+[INFO] Building jar: C:\Users\sif-\Desktop\Projects\TrafficController\backend\traffic\target\traffic-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.690 s
+[INFO] Finished at: 2026-02-07T14:30:36+05:30
+[INFO] ------------------------------------------------------------------------
